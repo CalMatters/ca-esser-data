@@ -43,6 +43,7 @@ These are the columns in `ca_esser.csv`. Each row is a local education agency, e
 | ii_all  | Final ESSER II allocation the LEA is eligible to receive as of the Summer 2024 reporting period                                                                                                                                                               |
 | iii_exp | Total amount of ESSER III funding the LEA reported expending over all reporting periods                                                                                                                                                                       |
 | iii_all | Final ESSER III allocation the LEA is eligible to receive as of the Summer 2024 reporting period                                                                                                                                                              |
+| iii_plan_link | Link to ESSER III expenditure plan if available and confirmed |
 
 ## Data Use
 
