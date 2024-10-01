@@ -6,7 +6,7 @@ The level of detail in these files makes it complicated to quickly see how much 
 
 This dataset will be updated when additional ESSER III data becomes available.
 
-This dataset powers the district lookup tool in this story: “Use it or lose it: California schools race to spend the last of their pandemic funds” by Carolyn Jones (published September 30, 2024).
+This dataset powers the district lookup tool in this story: “[Use it or lose it: California schools race to spend the last of their pandemic funds](https://calmatters.org/education/k-12-education/2024/09/pandemic-relief/)” by Carolyn Jones (published September 30, 2024).
 
 ## Data sources
 
